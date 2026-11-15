@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World - Webhook test 4'
+                echo 'Hello World - Webhook test'
             }
         }
     }
